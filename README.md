@@ -119,4 +119,5 @@ This internship provided hands-on experience in building real-world AI applicati
 📧 Email: Your Email Here  
 🔗 LinkedIn: www.linkedin.com/in/shraddha-chauhan-5b70483a1
 💻 GitHub: https://github.com/shraddhachauhan-hub/CODSOFT
+
 ⭐ If you found this repository helpful, feel free to star it and explore the projects.
