@@ -95,18 +95,6 @@ A face detection and recognition system that identifies and recognizes faces usi
 - Problem Solving
 - Git & GitHub
 
-## 📁 Repository Structure
-
-
-CodSoft-AI-Internship/
-│
-├── Task1_Student_Helper_Chatbot
-├── Task2_ShraddhaXO_AI
-├── Task3_VisionSpeak_AI
-├── Task4_Movie_Recommendation_System
-├── Task5_FaceGuard_AI
-│
-└── README.md
 
 ## 🎯 Internship Outcome
 
